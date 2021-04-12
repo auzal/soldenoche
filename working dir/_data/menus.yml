@@ -1,0 +1,22 @@
+main:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Equipo"
+    url: "/team/"
+    weight: 3
+  - name: "Cómo Participar"
+    url: "/about/"
+    weight: 2
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 4
+
+
+footer:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 2
