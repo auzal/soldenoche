@@ -3,17 +3,17 @@
 ---
 
 // Colors
-$primary: #E5261F;
-$secondary: #f88379;
-$black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5C5A5A;
+$primary: #0A060F;
+$secondary: #FFEEDC;
+$black: #FFF7E6;
+$white: #0A060F;
+$white-offset: rgba(255,255,255,0.2);
+$steel: #FFF7E6;
 
 // Links
-$link-color: $primary;
+$link-color: $secondary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: lighten($secondary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
@@ -21,10 +21,10 @@ $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: 'Playfair Display', serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
-$footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
+$footer-background-color: #0A060F;
+$footer-text-color:  $secondary;
+$sub-footer-background-color: darken($footer-background-color,5%);
+$sub-footer-text-color:  $secondary;
 
 // Bootstrap
 @import 'bootstrap-variables';

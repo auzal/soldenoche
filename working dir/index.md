@@ -2,7 +2,7 @@
 title: Sol de Noche - Irrupciones de video
 layout: home
 description: Sol de Noche - Irrupciones de video
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/pointing2.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
