@@ -6,7 +6,7 @@ image: "images/team/julieta_caputo.jpg"
 jobtitle: "Productora"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 1
+weight: 5
 layout: team
 ---
 

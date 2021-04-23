@@ -1,52 +1,22 @@
 ---
-title: 'About'
+title: 'Cómo participar'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+La Subsecretaría de Cultura de Bariloche abre la convocatoria a Sol de noche, irrupciones de video con el fin de difundir la obra de artistas de la región patagónica así como el ejercicio de prácticas artísticas contemporáneas experimentales.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Sol de noche es una exhibición de video cuyo soporte serán las pantallas publicitarias emplazadas en la vía pública. Brindará una experiencia cultural abierta y gratuita para la comunidad.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Podrán presentarse a esta convocatoria artistas mayores de 18 años que puedan demostrar residencia en la región patagónica.  Las piezas de video puestas a consideración del comité de selección podrán ser piezas de video arte, video experimental, animación experimental u otras variantes de imagen en movimiento que no superen el minuto de duración.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Inscripción
 
-## Postquam tamen
+La inscripción estará abierta hasta el 31 de mayo y deberá realizarse completando [este formulario](https://www.google.com "fomulario de inscripción")
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Bases y condiciones
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Las bases y condiciones están disponibles en  [este documento](https://www.google.com "bases y condiciones")

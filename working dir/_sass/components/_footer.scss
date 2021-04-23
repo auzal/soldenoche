@@ -15,9 +15,9 @@
   }
   .footer-title {
     color: $secondary;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-family: $font-family-heading;
-    font-weight: bold;
+    font-weight: 300;
     margin-bottom: 10px;
     @include media-breakpoint-up(sm) {
       margin: 0;
@@ -29,7 +29,7 @@
     padding: 0;
     li {
       color: $secondary;
-      font-size: 1rem;
+      font-size: 0.9rem;
       a {
         color: $secondary;
         text-decoration: none;

@@ -6,7 +6,7 @@ image: "images/team/fabian_urban.jpg"
 jobtitle: "Juradx"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 1
+weight: 2
 layout: team
 ---
 

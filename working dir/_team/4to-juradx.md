@@ -6,7 +6,7 @@ image: "images/team/jurada_4.jpg"
 jobtitle: "Juradx"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 1
+weight: 3
 layout: team
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "Ariel Uzal"
+title: "Joaquín De Bento"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/ariel_uzal.jpg"
-jobtitle: "Juradx/Productor"
+image: "images/team/joaquin_debento.jpg"
+jobtitle: "Subsecretario de cultura"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 6
+weight: 4
 layout: team
 ---
 
