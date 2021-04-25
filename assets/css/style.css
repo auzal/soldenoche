@@ -736,6 +736,10 @@ h3 { font-size: 16px; line-height: 1.4; }
 
 @media (min-width: 768px) { h3 { font-size: 20px; line-height: 1.4; } }
 
+h4 { color: #F00; font-size: 26px; font-weight: 100; font-family: "IBM Plex Mono", monospace; line-height: 1.4; margin-bottom: 10px; }
+
+@media (min-width: 768px) { h4 { font-size: 28px; line-height: 1.4; } }
+
 ul, ol { margin: 0; padding: 0; }
 
 ul li, ol li { padding: 0; margin: 0; }
@@ -794,7 +798,7 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .logo a { display: block; width: 100%; height: 100%; }
 
-.logo-mobile { display: block; width: 40px; padding: 10px 0 10px 0; }
+.logo-mobile { display: block; width: 230px; padding: 10px 0 10px 0; }
 
 @media (min-width: 576px) { .logo-mobile { display: none; } }
 
@@ -855,7 +859,7 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .hamburger:focus { outline: none; }
 
-.hamburger .hamburger-inner, .hamburger .hamburger-inner::before, .hamburger .hamburger-inner::after { background: #0A060F; }
+.hamburger .hamburger-inner, .hamburger .hamburger-inner::before, .hamburger .hamburger-inner::after { background: #FFEEDC; }
 
 .hamburger .hamburger-inner::after { width: 18px; right: 0; }
 
