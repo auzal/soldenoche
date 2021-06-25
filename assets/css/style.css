@@ -1019,6 +1019,10 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .team-summary .team-image img { width: 60px; }
 
+.team-summary .obra-image { width: 100%; height: auto; overflow: hidden; }
+
+.team-summary .obra-image img { width: 100%; }
+
 .team-summary .team-meta { flex: 1; }
 
 .team-summary .team-meta h2 { margin: 0; font-size: 22px; font-weight: normal; }
@@ -1032,6 +1036,10 @@ ul li, ol li { padding: 0; margin: 0; }
 .team-summary-large .team-image { height: 90px; width: 90px; margin-right: 20px; border-radius: 50%; overflow: hidden; }
 
 .team-summary-large .team-image img { width: 90px; }
+
+.team-summary-large .obra-image { width: 100%; height: auto; overflow: hidden; }
+
+.team-summary-large .obra-image img { width: 100%; }
 
 .page-services-single .content > p:first-of-type { font-size: 1.6rem; line-height: 1.4; margin-bottom: 40px; font-weight: regular; color: #686868; }
 
